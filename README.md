@@ -72,31 +72,31 @@ Welcome to the definitive curated directory of **AI sales forecasting software**
 
 ## 🔓 Open-Source GitHub Projects 🤖
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Darts (unit8co)](https://github.com/unit8co/darts)** [![Stars](https://img.shields.io/github/stars/unit8co/darts?style=social&color=white)](https://github.com/unit8co/darts/stargazers)  
-  **A Python library for easy manipulation and forecasting of time series**, LGPL-3.0 licensed. **8,120+ GitHub stars** — **features a scikit-learn-like API for everything from ARIMA to Deep Learning models like N-BEATS, TFT, and Chronos**. 🎯
+  **A Python library for easy manipulation and forecasting of time series**, LGPL-3.0 licensed. **8,120+ GitHub_Stars** — **features a scikit-learn-like API for everything from ARIMA to Deep Learning models like N-BEATS, TFT, and Chronos**. 🎯
 
 - **[sktime](https://github.com/sktime/sktime)** [![Stars](https://img.shields.io/github/stars/sktime/sktime?style=social&color=white)](https://github.com/sktime/sktime/stargazers)  
-  **A unified framework for machine learning with time series**, BSD-3-Clause licensed. **7,696+ GitHub stars** — **the most comprehensive open-source framework for time series forecasting, classification, and regression** [citation:15]. **Provides a unified API for multiple time series learning tasks**. **Includes forecasting, classification, and regression algorithms**. 🏛️
+  **A unified framework for machine learning with time series**, BSD-3-Clause licensed. **7,696+ GitHub_Stars** — **the most comprehensive open-source framework for time series forecasting, classification, and regression** [citation:15]. **Provides a unified API for multiple time series learning tasks**. **Includes forecasting, classification, and regression algorithms**. 🏛️
 
 - **[Kats (Facebook)](https://github.com/facebookresearch/Kats)** [![Stars](https://img.shields.io/github/stars/facebookresearch/Kats?style=social&color=white)](https://github.com/facebookresearch/Kats/stargazers)  
-  **A kit to analyze time series data**, MIT licensed. **4,896+ GitHub stars** — **lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from key statistics to forecasting future trends** [citation:11]. 🐱
+  **A kit to analyze time series data**, MIT licensed. **4,896+ GitHub_Stars** — **lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from key statistics to forecasting future trends** [citation:11]. 🐱
 
 - **[sktime pytorch-forecasting](https://github.com/sktime/pytorch-forecasting)** [![Stars](https://img.shields.io/github/stars/sktime/pytorch-forecasting?style=social&color=white)](https://github.com/sktime/pytorch-forecasting/stargazers)  
-  **Time series forecasting with PyTorch**, MIT licensed. **3,883+ GitHub stars** — **PyTorch-based probabilistic time series forecasting framework based on GluonTS backend** [citation:11][citation:15]. 🔥
+  **Time series forecasting with PyTorch**, MIT licensed. **3,883+ GitHub_Stars** — **PyTorch-based probabilistic time series forecasting framework based on GluonTS backend** [citation:11][citation:15]. 🔥
 
 - **[NeuralProphet](https://github.com/ourownstory/neural_prophet)** [![Stars](https://img.shields.io/github/stars/ourownstory/neural_prophet?style=social&color=white)](https://github.com/ourownstory/neural_prophet/stargazers)  
-  **A simple neural forecasting package**, MIT licensed. **3,828+ GitHub stars** — **combines Prophet's usability with PyTorch neural network performance** [citation:15]. 🧠
+  **A simple neural forecasting package**, MIT licensed. **3,828+ GitHub_Stars** — **combines Prophet's usability with PyTorch neural network performance** [citation:15]. 🧠
 
 - **[Nixtla NeuralForecast](https://github.com/Nixtla/neuralforecast)** [![Stars](https://img.shields.io/github/stars/Nixtla/neuralforecast?style=social&color=white)](https://github.com/Nixtla/neuralforecast/stargazers)  
-  **Scalable and user-friendly neural forecasting algorithms**, Apache-2.0 licensed. **3,454+ GitHub stars** — **the leading open-source neural forecasting library** [citation:3]. **Implements state-of-the-art deep learning models including N-BEATS, NHITS, TFT, and PatchTST** [citation:19]. ⚡
+  **Scalable and user-friendly neural forecasting algorithms**, Apache-2.0 licensed. **3,454+ GitHub_Stars** — **the leading open-source neural forecasting library** [citation:3]. **Implements state-of-the-art deep learning models including N-BEATS, NHITS, TFT, and PatchTST** [citation:19]. ⚡
 
 - **[Merlion (Salesforce)](https://github.com/salesforce/Merlion)** [![Stars](https://img.shields.io/github/stars/salesforce/Merlion?style=social&color=white)](https://github.com/salesforce/Merlion/stargazers)  
-  **A Machine Learning Framework for Time Series Intelligence**, Apache-2.0 licensed. **3,363+ GitHub stars** — **unified interface for forecasting, anomaly detection, and change point detection** [citation:11]. 🦁
+  **A Machine Learning Framework for Time Series Intelligence**, Apache-2.0 licensed. **3,363+ GitHub_Stars** — **unified interface for forecasting, anomaly detection, and change point detection** [citation:11]. 🦁
 
 - **[GluonTS (AWS)](https://github.com/awslabs/gluonts)** [![Stars](https://img.shields.io/github/stars/awslabs/gluonts?style=social&color=white)](https://github.com/awslabs/gluonts/stargazers)  
-  **Probabilistic time series modeling in Python**, Apache-2.0 licensed. **3,250+ GitHub stars** — **Amazon's deep learning library for time series forecasting built on PyTorch and MXNet**. ☁️
+  **Probabilistic time series modeling in Python**, Apache-2.0 licensed. **3,250+ GitHub_Stars** — **Amazon's deep learning library for time series forecasting built on PyTorch and MXNet**. ☁️
 
 - **[Chronos](https://github.com/lamadelrae/chronos)** [![Stars](https://img.shields.io/github/stars/lamadelrae/chronos?style=social&color=white)](https://github.com/lamadelrae/chronos/stargazers)  
   **Demand forecasting and sales analytics platform**, open-source. **Predicts product demand using machine learning based on historical sales data** [citation:4]. **Sales Analytics Dashboard with real-time metrics**. 📈
@@ -121,7 +121,7 @@ Contributions are welcome! Follow these steps to submit new sales forecasting pl
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Stars Count badge, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count badge, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
